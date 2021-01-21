@@ -1,3 +1,9 @@
+package fcp.ch1.basic;
+import edu.princeton.cs.algs4.*;
+import edu.princeton.cs.introcs.*;
+import java.util.Arrays;
+import java.util.Random;
+
 public class RandomSeq {
     public static void main(String[] args)
     {//print n random values in (lo, hi)
