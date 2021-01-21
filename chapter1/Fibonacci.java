@@ -13,4 +13,4 @@ public class Fibonacci {
 		for (int n = 0; n < 5; n++)
 			System.out.println(n + " " + fibonacci(n));
 	}
-}ja
+}
