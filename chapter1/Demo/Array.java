@@ -1,4 +1,4 @@
-//array creation and initilization
+//array creation and initilization*/
 
 //long form 
 double[] a;
