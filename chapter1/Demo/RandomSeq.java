@@ -1,4 +1,4 @@
-package fcp.ch1.basic;
+package algs4;
 import edu.princeton.cs.algs4.*;
 import edu.princeton.cs.introcs.*;
 import java.util.Arrays;
@@ -12,8 +12,8 @@ public class RandomSeq {
         double hi = Double.parseDouble(args[2]);
 
         for (int i = 0; i < n; i++){
-            double x = StdRandom.uniform(lo, hi);
-            StdOut.printf("%.2f\n", x);
+            double x = Random.uniform(lo, hi);
+            System.out.printf("%.2f\n", x);
         }
 
 
